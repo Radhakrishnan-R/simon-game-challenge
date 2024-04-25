@@ -31,8 +31,8 @@ If the user messes up the sequence, then the game ends.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Radhakrishnan-R/simon-game-challenge/blob/main/index.js)
+- Live Site URL: (https://radhakrishnan-r.github.io/simon-game-challenge/)
 
 ## My process
 
